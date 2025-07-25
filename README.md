@@ -1,1 +1,3 @@
-https://github-readme-stats.vercel.app/api/top-langs/?username=TeaRiot)](https://github.com/anuraghazra/github-readme-stats
+## Статистика
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaRiot)](https://github.com/anuraghazra/github-readme-stats)
